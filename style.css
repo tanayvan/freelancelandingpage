@@ -4,6 +4,7 @@
   box-sizing: border-box;
   font-family: "Commissioner", sans-serif;
   scroll-behavior: smooth;
+  font-display: auto;
 }
 .about-us-image {
   width: 50%;
@@ -448,7 +449,7 @@ header {
     width: 100%;
   }
   .strategic-design-cover {
-    background-image: url(./assets/desktop/daniel-korpai-pKRNxEguRgM-unsplash.jpg);
+    background-image: url(./assets/desktop/daniel-korpai-pKRNxEguRgM-unsplash.webp);
 
     height: 50vh;
     background-repeat: no-repeat;
